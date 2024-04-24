@@ -28,6 +28,10 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+
+      <br />
+       <h1>Rahul Raj</h1>
+       <h1>Prabhu Kanna</h1>
     </>
   )
 }
